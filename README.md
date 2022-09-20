@@ -1,2 +1,2 @@
 # Jogo-Pong
-trabalhar com animação, eventos, funções, variáveis e deixou o jogo bem lindão. Além disso, aprendeu a importância de manter um código limpo e organizado.
+jogo do Pong, é um jogo eletrônico de esporte que simula uma partida de tênis de mesa.
